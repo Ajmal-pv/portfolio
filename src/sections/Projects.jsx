@@ -28,7 +28,7 @@ const projects = [
     name: "MENSPACE Store - Ecom.",
     imageSrc: ecommerce,
     githubLink: "https://github.com/Ajmal-pv/MENSPACE",
-    liveProjectLink: "",
+    liveProjectLink: "https://menspace.onrender.com/",
     techStack:
       "Node.js - Express.js - EJS - MongoDB - Ajax - jQuery - Bootstrap - Razorpay - Twilio",
     description: `MENSPACE is a sleek and modern eCommerce platform, dedicated to offering trendy clothing for the fashion-conscious man.It provides user-friendly....`,
